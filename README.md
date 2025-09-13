@@ -29,7 +29,7 @@ This project provides a **secure, decentralized, and verifiable method to share 
 ---
 
 ### 2️⃣ Encrypted Share (Quotient Q1)
-![Encrypted Share Q1](shares.jpg)
+![Encrypted Share Q1](Shares.jpg)
 
 ---
 
