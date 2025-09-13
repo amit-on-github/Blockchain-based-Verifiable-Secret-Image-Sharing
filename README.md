@@ -1,6 +1,6 @@
 # 📸 Blockchain-based Verifiable Secret Image Sharing using Homomorphic Encryption
 
-![Project Banner](images/original.png)
+![Project Banner](Banner.jpg)
 
 ## 🔍 Project Overview
 
