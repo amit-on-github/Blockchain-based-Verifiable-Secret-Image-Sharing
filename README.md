@@ -48,7 +48,7 @@ This project provides a **secure, decentralized, and verifiable method to share 
 
 ## 📄 Full Project Report
 
-🔗 [Download the Detailed PDF Report](docs/Major_Report.pdf)
+🔗 [Download the Detailed PDF Report]([docs/Major_Report.pdf](https://drive.google.com/file/d/1rcLcTAIC3GpATiWEHNyw0MznZ6W0dpQU/view?usp=drive_link))
 
 ---
 
