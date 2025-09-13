@@ -1,4 +1,4 @@
-📸 Blockchain-based Verifiable Secret Image Sharing using Homomorphic Encryption
+# 📸 Blockchain-based Verifiable Secret Image Sharing using Homomorphic Encryption
 
 ![Project Banner](images/original.png)
 
@@ -67,9 +67,3 @@ This project provides a **secure, decentralized, and verifiable method to share 
 - Amit Kumar  
 
 Supervised by: Dr. Amitava Nag
-
-
-
-# -Blockchain-based-Verifiable-Secret-Image-Sharing
-
-[👉Detailed Report](https://drive.google.com/file/d/1rcLcTAIC3GpATiWEHNyw0MznZ6W0dpQU/view?usp=drive_link)
