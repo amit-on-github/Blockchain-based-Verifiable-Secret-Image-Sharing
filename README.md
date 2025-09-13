@@ -24,17 +24,17 @@ This project provides a **secure, decentralized, and verifiable method to share 
 ## 🖼️ Visual Demonstration
 
 ### 1️⃣ Original Image (Patient X-ray)
-![Original X-ray](images/original.png)
+![Original X-ray](original.jpg)
 
 ---
 
 ### 2️⃣ Encrypted Share (Quotient Q1)
-![Encrypted Share Q1](images/q1.png)
+![Encrypted Share Q1](shares.jpg)
 
 ---
 
 ### 3️⃣ Reconstructed Image
-![Reconstructed X-ray](images/reconstructed.png)
+![Reconstructed X-ray](original.jpg)
 
 ---
 
